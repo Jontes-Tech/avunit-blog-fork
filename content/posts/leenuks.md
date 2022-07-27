@@ -1,7 +1,7 @@
 +++
 title = "There's a thing named Linux. USE IT!"
 date = "2022-07-26"
-author = "Avunit"
+author = "Avunit and Jonte"
 description = "This post explains why you should consider breaking out of Microsoft's and/or Apple's ecosystems."
 +++
 
@@ -9,13 +9,13 @@ Alright, you probably heard about Linux before, but what is it?
 
 Linux (LEE-nuuks) is a family of open-source Unix-like operating systems based on the Linux kernel. Linux is typically packaged in a Linux distribution. The most popular linux distributions are, based on data from [Linux Enthusiasts Group](https://discord.gg/sc9dv8P): Arch Linux, Ubuntu (which some people consider inferior to the alternatives), Manjaro, Debian, Pop!\_OS, Elementary OS, and Gentoo.
 
-Now, that was a lot of words. To make it easier to understand, Linux is "an operating software" just like Windows and Mac OS. These "distros" (short for distributions) are sometimes based on other, parent distros, such as Arch, Debian, and Fedora. Most people find the beginner Linux distros intuitive, while there are more customizable and complex offerings for the experienced users.
+Now, that was a lot of words. To make it easier to understand, Linux is "an operating systems" just like Windows and Mac OS. These "distros" (short for distributions) are sometimes based on other, parent distros, such as Arch, Debian, and Fedora. Most people find the beginner Linux distros intuitive, while there are more customizable and complex offerings for the experienced users.
 
 Now, you decided to install Linux. But HOW?
 Here's what you're going to need.
 
 - A functioning Microsoft Windows, Apple MacOS or GNU/Linux computer.
-- A USB Drive bigger than 4GB, more than 8 for some distros.
+- A USB Drive bigger than 4GB, up to 8GB for some distros.
 - An active internet connection with the ability of downloading 4-8 Gigabytes of data.
 - A flashing software such as Balena Etcher, which is free.
 - Linux distribution ISO (also free)
